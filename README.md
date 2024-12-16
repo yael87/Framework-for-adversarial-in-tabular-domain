@@ -1,7 +1,7 @@
 # Addressing Key Challenges of Adversarial Attacks and Defenses in the Tabular Domain: A Methodological Framework for Coherence and Consistency
 
 [![Published at Elsevier 2025](https://img.shields.io/badge/Published-Elsevier%202025-blue.svg)](link_to_paper)
-[![arXiv](https://img.shields.io/badge/arXiv-0000.00000-b31b1b.svg)](link_to_paper)
+[![arXiv](https://img.shields.io/badge/arXiv:2412.07326-b31b1b.svg)](link_to_paper)
 
 
 ## Abstract
@@ -43,10 +43,10 @@ The ...
 ## Citation
 
 ```bibtex
-@article{Itzhakev2024addressing,
+@article{itzhakev2024addressing,
   title={Addressing Key Challenges of Adversarial Attacks and Defenses in the Tabular Domain: A Methodological Framework for Coherence and Consistency},
   author={Itzhakev, Yael and Giloni, Amit and Elovici, Yuval and Shabtai, Asaf},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2412.07326},
   year={2024}
 }
 ```
