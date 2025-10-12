@@ -1,6 +1,6 @@
 # Addressing Key Challenges of Adversarial Attacks and Defenses in the Tabular Domain: A Methodological Framework for Coherence and Consistency
 
-Published at [![Published at Applied Sof Computing 2025](https://img.shields.io/badge/Applied_Soft_Computing_Jurnal_2025-blue.svg)](https://doi.org/10.1016/j.asoc.2025.113998)
+Published at: [![Published at Applied Sof Computing 2025](https://img.shields.io/badge/Applied_Soft_Computing_Jurnal_2025-blue.svg)](https://doi.org/10.1016/j.asoc.2025.113998)
 
 ## Abstract
 
