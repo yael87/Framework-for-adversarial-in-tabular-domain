@@ -35,12 +35,12 @@ The ...
 ## Citation
 
 ```bibtex
-@article{itzhakev2025addressing,
+@article{itzhakev2026addressing,
   title={Addressing key challenges of adversarial attacks and defenses in the tabular domain: A methodological framework for coherence and consistency},
   author={Itzhakev, Yael and Giloni, Amit and Elovici, Yuval and Shabtai, Asaf},
   journal={Applied Soft Computing},
   pages={113998},
-  year={2025},
+  year={2026},
   publisher={Elsevier}
 }
 ```
