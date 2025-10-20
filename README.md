@@ -13,7 +13,7 @@ Our evaluation of adversarial sample quality incorporates both anomaly detection
 # Overview
 ![screenshot](paper_overview.png)
 
-# Contents
+# Contents (needs to be uploaded...)
 1. Processed datasets
     * Hate
     * ICU
